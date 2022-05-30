@@ -1,0 +1,68 @@
+*{
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+span{
+    color: white;
+}
+.menu{
+    background-color: black;
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+    letter-spacing: 2px;
+    display: flex;
+}
+nav{
+    display: inline-block;
+    
+}
+nav ul{
+    display: inline-block;
+}
+nav ul li{
+    display: inline-block;
+    margin: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    color: grey;
+}
+nav label span h2{
+    transition: transform .4s;
+}
+nav label span h2:hover{
+    transform: scale(1.2);
+}
+.img1{
+    background-image: url(Apple-iPhone-13-Mini-India-jpg-1-2048x1432.jpg);
+    height: 800px;
+    margin-right: 8%;
+}
+.card-content{
+    justify-content: center;
+    text-align: center;
+    color: black;
+    text-decoration-line: overline;
+    padding-top: 5%;
+    transition: transform .4s;
+}
+.card-content:hover{
+    transform: scale(1.2);
+}
+.img2{
+    background-image: url(iphone13promax.jpg);
+    height: 300px;
+    width: 600px;
+    justify-content: center;
+    margin-left: 30%;
+}
+footer{
+    position: relative;
+    bottom: 0;
+    display: block;
+
+
+}
