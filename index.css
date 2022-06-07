@@ -52,6 +52,11 @@ nav label span h2:hover{
 .card-content:hover{
     transform: scale(1.2);
 }
+.img3{
+   background-image: url(13pro.jpg);
+   height: 800px;
+   margin-right: 8%;
+}
 .img2{
     background-image: url(iphone13promax.jpg);
     height: 300px;
