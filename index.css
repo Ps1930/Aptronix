@@ -55,7 +55,9 @@ nav label span h2:hover{
 .img3{
    background-image: url(13pro.jpg);
    height: 300px;
-   margin-right: 8%;
+   width: 600px;
+   justify-content: center;
+   margin-right: 30%;
 }
 .img2{
     background-image: url(iphone13promax.jpg);
